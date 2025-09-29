@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "7f5c2e134524d1c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f93e0f88eb316a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c63ad45c79dc4605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "interface"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53918b0a4f766a47",
+    "type": "split",
+    "children": [
+      {
+        "id": "93481c5983a07eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cd21bce148bcff0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cc15ed19ed1015b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "1ded8fe636a66fcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "470a1bbbaa5415f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f75c08db2090c68c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "012fe102fa0668c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "赛事记录/数学建模/C题.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "C题 的反向链接列表"
+            }
+          },
+          {
+            "id": "56e4f4606ba06501",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "机器学习/机器学习之线性回归.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 机器学习之线性回归"
+            }
+          },
+          {
+            "id": "57e5a0f0450a5159",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "74207e41140a6927",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "算法/滑动窗口(长度最小的子数组).md"
+              },
+              "icon": "lucide-list",
+              "title": "滑动窗口(长度最小的子数组) 的大纲"
+            }
+          },
+          {
+            "id": "5962685d93c3fb2d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c63ad45c79dc4605",
+  "lastOpenFiles": [
+    "golang/images/Untitled-2025-09-18-1625.png",
+    "golang/interface.md",
+    "golang/images/Untitled-2025-09-18-1625.png.crswap",
+    "golang/images/接口.excalidraw.crswap",
+    "golang/images/接口.excalidraw",
+    "golang/images",
+    "golang/新建文件夹",
+    "golang/golang典型错误/滥用getset、接口.md",
+    "golang/golang典型错误/变量隐藏、滥用嵌套、滥用init.md",
+    "Untitled.md",
+    "技术小屋/Git and GitHub.md",
+    "golang典型错误/变量隐藏、滥用嵌套、滥用init.md",
+    "golang/golang典型错误",
+    "golang",
+    "新建文件夹",
+    "前端/整体的思路.md",
+    "技术小屋/React.md",
+    "前端",
+    "前段",
+    "leetcode刷题/数组/二分查找/二分查找(查找元素的第一个和最后一个位置).md",
+    "leetcode刷题/数组/二分查找/二分查找(基础).md",
+    "goblog/03.md",
+    "goblog/02.md",
+    "goblog/01.md",
+    "技术小屋/TypeScript.md",
+    "赛事记录/计算机设计大赛/字帖pdf.md",
+    "赛事记录/计算机设计大赛/云章.canvas",
+    "赛事记录/计算机设计大赛/用户手册.md",
+    "赛事记录/计算机设计大赛/项目名称.md",
+    "赛事记录/计算机设计大赛/未命名.md",
+    "赛事记录/计算机设计大赛/算法.md",
+    "赛事记录/计算机设计大赛/数据库设计大赛.md",
+    "赛事记录/计算机设计大赛/生成字帖类的调用（python）.md",
+    "赛事记录/计算机设计大赛/生成字帖代码改动说明.md",
+    "赛事记录/计算机设计大赛/评 调用.md",
+    "赛事记录/计算机设计大赛/摹.canvas",
+    "赛事记录/计算机设计大赛/可视化大屏调用.md",
+    "赛事记录/计算机设计大赛/计算机设计大赛 9.md",
+    "Pasted image 20250904230436.png",
+    "Pasted image 20250904230236.png",
+    "Pasted image 20250904225640.png",
+    "Pasted image 20250904225627.png",
+    "Pasted image 20250904224741.png",
+    "Pasted image 20250904203155.png",
+    "Pasted image 20250904195831.png",
+    "Pasted image 20250904195526.png",
+    "Pasted image 20250904195238.png",
+    "赛事记录/云章/摹.canvas",
+    "赛事记录/云章/云章.canvas",
+    "云章/云章.canvas",
+    "云章/摹.canvas",
+    "未命名.canvas",
+    "云章.canvas"
+  ]
+}

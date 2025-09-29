@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b7d9d70e2eb3a944","x":-125,"y":-30,"width":85,"height":50,"type":"text","text":"摹"},
+		{"id":"1ee5d66e7e723314","x":-260,"y":109,"width":220,"height":111,"type":"text","text":"用户从收藏中选择来定制。（本质上是根据图片生成）"},
+		{"id":"a280476b7d3e7586","x":-1,"y":133,"width":201,"height":127,"type":"text","text":"用户指定内容定制（本质上是根据输入内容生成）"},
+		{"id":"8df9cd52d3566399","x":99,"y":293,"width":261,"height":107,"type":"text","text":"选择随机，我们就默认难度，默认结构来生成（但是用户得指定字体）"},
+		{"id":"e9ed9f0e4525df0c","x":-277,"y":314,"width":250,"height":126,"type":"text","text":"选择具体内容来生成，比如作者指定字的结构，字的难度，或者选择课文。"},
+		{"id":"1e13b90b4a6f2bda","x":48,"y":-34,"width":250,"height":60,"type":"text","text":"可以选择一页一字，一行一字，一行多字"}
+	],
+	"edges":[
+		{"id":"b2c786a9d7cd1f25","fromNode":"b7d9d70e2eb3a944","fromSide":"bottom","toNode":"1ee5d66e7e723314","toSide":"top"},
+		{"id":"155cffa50147d3f1","fromNode":"b7d9d70e2eb3a944","fromSide":"bottom","toNode":"a280476b7d3e7586","toSide":"top"},
+		{"id":"49748ec4c9d2741f","fromNode":"a280476b7d3e7586","fromSide":"bottom","toNode":"8df9cd52d3566399","toSide":"top"},
+		{"id":"891d31106fa74727","fromNode":"a280476b7d3e7586","fromSide":"bottom","toNode":"e9ed9f0e4525df0c","toSide":"top"},
+		{"id":"39aa1bc5065771ce","fromNode":"b7d9d70e2eb3a944","fromSide":"right","toNode":"1e13b90b4a6f2bda","toSide":"left"}
+	]
+}

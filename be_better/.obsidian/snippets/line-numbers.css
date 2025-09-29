@@ -1,0 +1,12 @@
+.cm-lineNumbers {
+    display: block !important;
+    background: var(--background-primary) !important;
+    color: #ff0000 !important;  /* 红色数字 */
+    padding-right: 10px !important;
+    border-right: 1px solid var(--background-modifier-border) !important;
+    font-size: 1.1em !important;  /* 稍微大一点 */
+}
+
+.cm-gutters {
+    display: block !important;
+}

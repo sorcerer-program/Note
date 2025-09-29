@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "E:\\Pandoc\\pandoc-3.6.3\\pandoc.exe",
+  "pdflatex": null,
+  "outputFolder": "C:\\Users\\sorcerer_program\\Desktop",
+  "extraArguments": "",
+  "exportFrom": "html"
+}
