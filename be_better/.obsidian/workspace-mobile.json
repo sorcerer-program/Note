@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang/interface.md",
+                "file": "赛事记录/计算机设计大赛/商用化/商用化第一次会议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interface"
+              "title": "商用化第一次会议"
             }
           }
         ]
@@ -156,5 +156,14 @@
     }
   },
   "active": "c81a4ec730757ba8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "赛事记录/计算机设计大赛/Untitled.canvas",
+    "赛事记录/计算机设计大赛/商用化/商用化第一次会议.md",
+    "赛事记录/计算机设计大赛/商用化/image",
+    "赛事记录/计算机设计大赛/商用化",
+    "赛事记录/计算机设计大赛/项目名称.md",
+    "Untitled",
+    "赛事记录/计算机设计大赛/云章.canvas",
+    "golang/interface.md"
+  ]
 }

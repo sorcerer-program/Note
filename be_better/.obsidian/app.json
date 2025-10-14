@@ -9,5 +9,6 @@
   "vimMode": true,
   "user": {
     "showExperiments": true
-  }
+  },
+  "promptDelete": false
 }
